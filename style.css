@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #414141;
+}
+
+.heading {
+    font-size: 3rem;
+}
+
+.animation { 
+    font-size: 1rem;
+    width: 100%;
+    min-height: 38px;
+}
+
+.content {
+    font-size: 2rem;
+    width: 100%;
+}
+
+.footer {
+    padding: 2rem 0;
+    font-size: 2rem;
+    color: #787878;
+    width: 100%;
+}
+
+.footer__link {
+    text-decoration: underline;
+    color: #787878;
+}
+
