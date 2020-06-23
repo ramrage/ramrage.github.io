@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Silkscreen';
+    src: url('Silkscreen.eot');
+    src: url('Silkscreen.eot?#iefix') format('embedded-opentype'),
+        url('Silkscreen.woff2') format('woff2'),
+        url('Silkscreen.woff') format('woff'),
+        url('Silkscreen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'Silkscreen', sans-serif;
+    
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.heading {
+    width: 100%;
+}
+
+
+.contact-us {
+    text-align: left;
+}
