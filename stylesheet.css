@@ -28,3 +28,8 @@ a {
 .contact-us {
     text-align: left;
 }
+
+.twitter-box {
+    display: inline-block;
+    width: 60%;
+}
